@@ -25,6 +25,6 @@ It supports a simplified but functional **Instruction Set Architecture (ISA)** w
   - Arithmetic: `ADD`, `SUB`, `ADDI`
   - Logic: `AND`, `ANDI`
   - Memory: `LW`, `SW`, `LBu`, `LBs`
-  - Control flow: `BEQ`, `BGT`, `JMP`, `CALL`, `RET`, etc.
+  - Control flow: `BEQ`, `BGT`, `JMP`, `CALL`, `RET`
 
 ---
