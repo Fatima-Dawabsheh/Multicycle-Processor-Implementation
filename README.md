@@ -1,4 +1,4 @@
-# 🧠 16-bit Multicycle RISC Processor
+# 🧠 Multicycle Processor Implementation
 
 ## 📌 Overview
 
