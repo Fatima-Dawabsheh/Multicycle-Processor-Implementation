@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project aims to design a specialized **16-bit multicycle RISC processor** using Verilog. The processor is structured around a **5-stage architecture** consisting of:
+This project aims to design a specialized **16-bit multicycle processor** using Verilog. The processor is structured around a **5-stage architecture** consisting of:
 
 - Instruction Fetch
 - Instruction Decode
@@ -28,3 +28,7 @@ It supports a simplified but functional **Instruction Set Architecture (ISA)** w
   - Control flow: `BEQ`, `BGT`, `JMP`, `CALL`, `RET`
 
 ---
+## 👥 Contributors  
+👥 **Fatima Dawabsheh**   
+👥 **Klarein Wassaya**  
+ 
